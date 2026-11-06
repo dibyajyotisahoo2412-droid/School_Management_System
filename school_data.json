@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "Dibyajyoti Sahoo",
+            "age": 19,
+            "email": "dibyajyoti@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Mathematics": 100.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Anita Chandra",
+            "age": 30,
+            "email": "anita@gmail.com",
+            "subject": "Computer Science",
+            "emp_id": "23"
+        }
+    ]
+}
